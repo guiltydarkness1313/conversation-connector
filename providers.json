@@ -10,8 +10,8 @@
       "channel": {
         "facebook": {
           "app_secret": "39c7c7dc41a19227c16a8724609cedc4",
-          "page_access_token": "xxxxxx",
-          "verification_token": "xxxxxx"
+          "page_access_token": "EAAB7jh6y4dUBAH1IoeO3t8of46Hv8rMhUCpkO012I3mJOKZCOAU0ik4AkB7hYTmgOrM0ngcqIiOL0ZC9ZAkdvsOCWEAnvY4v5xD8IueZAbVcZAdz7JZBd3uhYQQX76ZCrLCZALTH6ZCnb2qlHx0ESMvTwaS8CxKokMhpvZCZApzzfPViAZDZD",
+          "verification_token": "misaki-token"
         },
         "name": "slack",
         "slack": {
@@ -21,9 +21,9 @@
         }
       },
       "conversation": {
-        "username": "xxxx",
-        "password": "xxxx",
-        "workspace_id": "xxxx"
+        "username": "22dd5c24-1842-4bfd-9a01-a58a6fc62e9b",
+        "password": "Zgwf1UoDQY84",
+        "workspace_id": "81a94c34-407e-4c31-b8c0-26f632a1bce6"
       },
       "name": "xxxx"
     }
